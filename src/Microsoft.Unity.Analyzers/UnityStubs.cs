@@ -9,10 +9,15 @@ using System;
 using System.Collections.Generic;
 using Microsoft.Unity.Analyzers;
 
-#pragma warning disable 
+#pragma warning disable
 
 namespace UnityEngine
 {
+	class Text
+	{
+		public string text { get; set; }
+	}
+	
 	class Object
 	{
 	}
