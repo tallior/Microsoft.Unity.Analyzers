@@ -447,4 +447,7 @@
   <data name="UnityObjectCoalescingAssignmentCodeFixTitle" xml:space="preserve">
     <value>Use null comparison</value>
   </data>
+  <data name="SergeAnalyzerTitle" xml:space="preserve">
+    <value>The serge is broken!!!</value>
+  </data>
 </root>
